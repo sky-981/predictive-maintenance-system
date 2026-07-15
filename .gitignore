@@ -1,0 +1,15 @@
+.venv/
+.env
+mlflow.db
+mlartifacts/
+mlflow-server*.log
+data/raw/
+models/*.pkl
+*.db
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+*.egg-info/
